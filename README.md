@@ -1,4 +1,4 @@
-# Animated GIF Generator
+# GIF Generator with DALL-E and LangGraph
 
 ## Overview
 This project demonstrates the creation of an animated GIF generator that combines state-of-the-art AI technologies with a user-friendly interface. By integrating **Streamlit** for interactivity, **LangChain** for workflow orchestration, GPT-powered language models for text generation, and **DALL-E** for image creation, the system enables users to effortlessly transform text prompts into animated visual stories.
