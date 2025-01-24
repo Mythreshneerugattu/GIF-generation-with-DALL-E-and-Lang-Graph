@@ -1,0 +1,8 @@
+openai
+langchain
+langchain-openai
+langgraph
+pillow
+python-dotenv
+aiohttp
+IPython
